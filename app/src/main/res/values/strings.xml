@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aart Dialog</string>
+    <string name="button_name"> Exit</string>
+    <string name="title_text"> This is a Title </string>
+    <string name="positive_text"> Yes </string>
+    <string name="negative_text"> No </string>
+    <string name="newtral_text"> Cancle </string>
+    <string name="massage_text"> Do you want to Exit ? </string>
+</resources>
